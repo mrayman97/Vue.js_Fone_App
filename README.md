@@ -13,7 +13,7 @@ This is a basic application built with vue.js to manage Fone Brands.
 ### Lints and fixes files
 >`npm run lint`
  
-###URL to use the Chatbot in your local :
+### URL to use the Chatbot in your local
 `http://localhost:8080/`
   
 ## Screenshots:
